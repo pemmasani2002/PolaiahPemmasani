@@ -89,7 +89,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(images/annie-spratt-QckxruozjRg-unsplash.jpg);
+    background-image: url("annie-spratt-QckxruozjRg-unsplash.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
